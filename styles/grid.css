@@ -16,3 +16,20 @@
     margin-bottom: 7px;
     text-align: center;
 }
+@media screen and (min-width: 1024px) {
+  .Imagem {
+    border-top: 10px groove rgb(47, 87, 173);
+    border-left:  10px groove rgb(47, 87, 173);
+    border-right:  10px groove rgb(47, 87, 173);
+    border-bottom: 10px groove rgb(47, 87, 173);
+
+  }
+  .titulo {
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+  }
+  .secao_banner {
+    width: 100%;
+    display: block;
+  }
+  }
